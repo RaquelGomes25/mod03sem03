@@ -6,7 +6,7 @@ const produto = { id : 1, nome : 'Grampo', preco : 34.7 }  //EXEMPLO DE TRATATIV
  try {
     
     console.log("LINHA 15 -> " + produtoNovo.preco) // 34.7
-    onsole.log("GLINHA 16 -> " + produtoNovo.peco) // 34.7
+    onsole.log("LINHA 16 -> " + produtoNovo.peco) // 34.7
     
   }
   catch(e) {
